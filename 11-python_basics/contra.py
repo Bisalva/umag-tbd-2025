@@ -5,4 +5,4 @@ def contra(contra_len):
         contralista = contralista.join(str)
     print(contralista)      
 
-contra(10)
+contra(10) 
